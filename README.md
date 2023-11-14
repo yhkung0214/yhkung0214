@@ -1,10 +1,10 @@
 ### 專長
-:ant: Java Programing \
-:ant: DevOps \
-:ant: SpringBoot \
-:ant: Angular
+:ant: 空間統計分析 \
+:ant: 空間流行病學 \
+:ant: 機器學習 \ 
+:ant: 決策樹方法 \
+:ant: 深度學習
 
 ### 經歷
-:ant: 輔仁大學 助理教授
-:ant: Mathematics 客座編輯
-:ant: 軟體工程師 
+:ant: 國家衛生研究院 博士後研究員 \ 
+:ant: 輔仁大學 助理教授 
