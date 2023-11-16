@@ -9,4 +9,4 @@
 :ant: 輔仁大學助理教授
 
 ### 信箱
-:ant: 157364@mail.fju.edu.tw
+:: 157364@mail.fju.edu.tw
