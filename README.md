@@ -9,4 +9,5 @@
 :ant: 輔仁大學 助理教授(現職)
 
 ### 信箱
-157364@mail.fju.edu.tw
+:ant: yhkung0214@gmail.com \
+:ant: 157364@mail.fju.edu.tw
